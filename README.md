@@ -28,7 +28,8 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 All obtained hough lines is separated into two groups  left and right lanes according to their slope then we sum  all lines slopes and centers and  average them then using the average slope and average center we will draw the left and right lanes by calculating the top and bottom points of each line. 
 
-
+Here's a [link to my video 1 result](./test_videos_output/solidWhiteRight.mp4)
+Here's a [link to my video 1 result](./test_videos_output/solidYellowLeft.mp4)
 
 ### 2.  potential shortcomings 
 
